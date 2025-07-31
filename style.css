@@ -6,7 +6,9 @@
 }
 
 body {
-    background-color: black;
+    /* background-color: black; */
+    background-size: cover;
+    background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
     display: flex;
@@ -15,7 +17,7 @@ body {
 }
 
 .box {
-    background-color: white;
+    background-color: rgb(246, 193, 172);
     height: fit-content;
     width: fit-content;
     padding: 50px;
